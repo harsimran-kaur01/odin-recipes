@@ -13,7 +13,7 @@ A simple recipe website built as part of The Odin Project Foundations course.
 * HTML
 * CSS
 
-## 📚 What I Learned
+## 📚 What I Learnt
 
 * Structuring a basic website using HTML
 * Linking between pages
